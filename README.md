@@ -1,16 +1,20 @@
-### Hi there 👋
+# 👋 Welcome to my GitHub Profile
 
-<!--
-**Mayar-Abuzahra/Mayar-Abuzahra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! My name is Mayar Abuzahra and I'm a computer engineer who loves to code! Here on my GitHub profile, you'll find a collection of my personal projects and various coding experiments. 
 
-Here are some ideas to get you started:
+## 🔨 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programming Languages: C, JavaScript, Java, C# #️⃣, Python
+- Web Development: HTML5, CSS3 🌐, React.js ⚛️
+- Database Management: MySQL
+- Operating Systems: Linux 🐧, Windows
+- Version Control: Git
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/mayar-abuzahra)
+
+## 💬 Contact Me
+
+- Email: mayarabuzahra200030@gmail.com
+- Discord: hellomay#8589
