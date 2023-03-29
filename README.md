@@ -1,6 +1,6 @@
 # 👋 Welcome to my GitHub Profile
 
-Hey there! My name is Mayar Abuzahra and I'm a computer engineer who loves to code! Here on my GitHub profile, you'll find a collection of my personal projects and various coding experiments. 
+Hey there! My name is Mayar Abuzahra and I'm a computer engineer who loves to code! Here on my GitHub profile, you'll find a collection of my personal projects. 
 
 ## 🔨 Skills
 
