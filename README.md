@@ -4,7 +4,7 @@ Hey there! My name is Mayar Abuzahra and I'm a computer engineer who loves to co
 
 ## 🔨 Skills
 
-- Class-based Programming Languages: Java, C#, Python
+- Class-based Programming Languages: Java, C#, Python, TypeScript
 - Procedural Programming Languages: C
 - Prototyped-based Programming Languages: JavaScript
 - Web Development: HTML5, CSS3 with Bootstrap 🌐 and media queries for responsive design, React.js ⚛️ for building interactive user interfaces
