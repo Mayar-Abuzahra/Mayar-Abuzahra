@@ -10,7 +10,7 @@ Hey there! My name is Mayar Abuzahra and I'm a computer engineer who loves to co
 - Web Development: HTML5, CSS3 with Bootstrap 🌐 and media queries for responsive design, React.js ⚛️ for building interactive user interfaces
 - Database Management: MySQL
 - Operating Systems: Linux 🐧, Windows
-- Version Control: Git for managing code repositories
+- Version Control: Git 
 
 ## 🌐 Connect with Me
 
