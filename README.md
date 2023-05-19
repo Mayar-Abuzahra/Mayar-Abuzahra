@@ -20,3 +20,5 @@ Hey there! My name is Mayar Abuzahra and I'm a computer engineer who loves to co
 
 - Email: mayarabuzahra200030@gmail.com
 - Discord: hellomay#8589
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayar-Abuzahra&show_icons=true&theme=transparent)
