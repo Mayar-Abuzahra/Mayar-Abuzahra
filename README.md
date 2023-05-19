@@ -7,10 +7,10 @@ Hey there! My name is Mayar Abuzahra and I'm a computer engineer who loves to co
 - Class-based Programming Languages: Java, C#, Python
 - Procedural Programming Languages: C
 - Prototyped-based Programming Languages: JavaScript
-- Web Development: HTML5, CSS3 🌐, React.js ⚛️
+- Web Development: HTML5, CSS3 with Bootstrap 🌐 and media queries for responsive design, React.js ⚛️ for building interactive user interfaces
 - Database Management: MySQL
 - Operating Systems: Linux 🐧, Windows
-- Version Control: Git
+- Version Control: Git for managing code repositories
 
 ## 🌐 Connect with Me
 
