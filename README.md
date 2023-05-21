@@ -2,15 +2,13 @@
 
 Hey there! I'm Mayar Abuzahra, a passionate computer engineer and coding enthusiast. 
 
-## 🔨 Skills
+<h3>🛠 Tech Stack</h3>
 
-- Class-based Programming Languages: Java, C#, Python, TypeScript
-- Procedural Programming Languages: C
-- Prototyped-based Programming Languages: JavaScript
-- Web Development: HTML5, CSS3 with Bootstrap 🌐, Media Query, React.js ⚛️ 
-- Database Management: MySQL
-- Operating Systems: Linux 🐧, Windows
-- Version Control: Git 
+- 💻 &nbsp; Python | Java | C# | C
+- 🌐 &nbsp; HTML5 | CSS3 | JavaScript | Bootstrap | Media Query | React.js | TypeScript | Android 
+- 🛢 &nbsp; MySQL 
+- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
+- 🖥️ &nbsp; Linux 🐧 | Windows
 
 ## 🌐 Connect with Me
 
