@@ -6,7 +6,7 @@ Hey there! I'm Mayar Abuzahra, a passionate computer engineer and coding enthusi
 
 - 💻 &nbsp; Python | Java | C# | C
 - 🌐 &nbsp; HTML5 | CSS3 | JavaScript | Bootstrap | Media Query | React.js | TypeScript | Android 
-- 🛢 &nbsp; MySQL 
+-  🛢 &nbsp; MySQL 
 - 🔧 &nbsp; PyCharm | Visual Studio | Visual Studio code | Eclipse | Git | Android Studio 
 
 ## 🌐 Connect with Me
