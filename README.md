@@ -18,6 +18,10 @@ Hey there! I'm Mayar Abuzahra, a passionate computer engineer and coding enthusi
 - Email: mayarabuzahra200030@gmail.com
 - Discord: hellomay#8589
 
+#### My Stats:
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayar-Abuzahra&show_icons=true&theme=transparent)
+
 ### My Personal Projects:
 
 See `pinned` below. 
