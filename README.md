@@ -10,6 +10,7 @@ Hey there! I'm Mayar Abuzahra, a passionate computer engineer and coding enthusi
 
 ## 🌐 Connect with Me
 
+<div align="center">
 <a href="https://www.linkedin.com/in/mayar-abuzahra" title="Follow me on LinkedIn">
   <img
     width="24"
@@ -23,6 +24,7 @@ Hey there! I'm Mayar Abuzahra, a passionate computer engineer and coding enthusi
     alt="Follow me on Medium"
     src="assets/icons/medium.svg"
   /></a>
+</div>
 
 ## 💬 Contact Me
 
