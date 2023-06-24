@@ -27,11 +27,13 @@ Hey there! I'm Mayar Abuzahra, a passionate computer engineer and coding enthusi
 
 ## 💬 Contact Me
 
--   <img
+- <a style="display: inline-block; margin-top: 5px;">
+  <img
     width="24"
     src="assets/icons/email.svg"
-  />: mayarabuzahra200030@gmail.com
-- <a>
+  />
+</a>: mayarabuzahra200030@gmail.com
+- <a style="display: inline-block; margin-top: 5px;">
   <img
     width="24"
     src="assets/icons/discord.svg"
