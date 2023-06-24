@@ -27,17 +27,8 @@ Hey there! I'm Mayar Abuzahra, a passionate computer engineer and coding enthusi
 
 ## 💬 Contact Me
 
-- <a>
-  <img
-    width="24"
-    src="assets/icons/email.svg"
-    style="margin-top: 22px;"
-  /></a>: mayarabuzahra200030@gmail.com
-- <a>
-  <img
-    width="24"
-    src="assets/icons/discord.svg"
-  /></a>: hellomay#8589
+- Email: mayarabuzahra200030@gmail.com
+- Discord: hellomay#8589
   
 #### My Stats:
 
