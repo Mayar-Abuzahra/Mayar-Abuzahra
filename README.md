@@ -31,8 +31,7 @@ Hey there! I'm Mayar Abuzahra, a passionate computer engineer and coding enthusi
   <img
     width="24"
     src="assets/icons/email.svg"
-  />
-</a>: mayarabuzahra200030@gmail.com
+  /></a>: mayarabuzahra200030@gmail.com
 - <a>
   <img
     width="24"
