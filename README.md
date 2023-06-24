@@ -27,7 +27,7 @@ Hey there! I'm Mayar Abuzahra, a passionate computer engineer and coding enthusi
 
 ## 💬 Contact Me
 
-- <a>
+- <a style="margin-top: 22px;">
   <img
     width="24"
     src="assets/icons/email.svg"
