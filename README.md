@@ -15,7 +15,7 @@ Hey there! I'm Mayar Abuzahra, a passionate computer engineer and coding enthusi
   <img
     width="24"
     alt="Follow me on LinkedIn"
-    src="https://github.com/Mayar-Abuzahra/Mayar-Abuzahra/tree/main/assets/icons/linkedin.svg"
+    src="assets/icons/linkedin.svg"
   /></a>
 &nbsp;
 
