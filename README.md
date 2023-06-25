@@ -1,8 +1,8 @@
 <div style="text-align: center;">
   <div style="display: inline-block;">
-    <img title="Animation" src="assets/icons/Eclipse-1s-200px.svg" width="200" height="200">
+    <img title="Animation" src="assets/icons/Eclipse-1s-200px.svg" width="100" height="100">
+    <h1 style="display: inline-block; margin: 0;">Welcome to my GitHub Profile</h1>
   </div>
-  <h1 style="display: inline-block; margin: 0;">Welcome to my GitHub Profile</h1>
 </div>
 
 Hey there! I'm Mayar Abuzahra, a passionate computer engineer and coding enthusiast. 
