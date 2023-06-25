@@ -39,7 +39,14 @@ Hey there! I'm Mayar Abuzahra, a passionate computer engineer and coding enthusi
 See `pinned` below. 
 
 <div style="display: flex; align-items: center; justify-content: center;">
-    <img title="image" src="assets/icons/html-1.1s-200px.svg" width="100" height="100">
-    <img title="image" src="assets/icons/html-1.1s-200px.svg" width="100" height="100">
-    <img title="image" src="assets/icons/html-1.1s-200px.svg" width="100" height="100">
+    <img title="image" src="assets/icons/html-1.1s-200px.svg" width="80" height="80">
+    <img title="image" src="assets/icons/html-1.1s-200px.svg" width="80" height="80">
+    <img title="image" src="assets/icons/html-1.1s-200px.svg" width="80" height="80">
+    <img title="image" src="assets/icons/html-1.1s-200px.svg" width="80" height="80">
+    <img title="image" src="assets/icons/html-1.1s-200px.svg" width="80" height="80">
+    <img title="image" src="assets/icons/html-1.1s-200px.svg" width="80" height="80">
+    <img title="image" src="assets/icons/html-1.1s-200px.svg" width="80" height="80">
+    <img title="image" src="assets/icons/html-1.1s-200px.svg" width="80" height="80">
+    <img title="image" src="assets/icons/html-1.1s-200px.svg" width="80" height="80">
+    <img title="image" src="assets/icons/html-1.1s-200px.svg" width="80" height="80">
 </div>
