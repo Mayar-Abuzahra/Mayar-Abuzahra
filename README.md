@@ -1,3 +1,6 @@
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img title="Animation" src="assets/icons/Vanilla-4.2s-280px.svg" width="200" height="200">
+</div>
 # Welcome to my GitHub Profile
 
 Hey there! I'm Mayar Abuzahra, a passionate computer engineer and coding enthusiast. 
