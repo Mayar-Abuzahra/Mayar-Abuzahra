@@ -1,7 +1,5 @@
 <div style="display: flex;">
-  <div>
-    <img title="Animation" src="assets/icons/Eclipse-1s-200px.svg" width="100" height="100">
-  </div>
+  <img title="Animation" src="assets/icons/Eclipse-1s-200px.svg" width="100" height="100">
   <h1 style="display: inline-block; margin: 0;">Welcome to my GitHub Profile</h1>
 </div>
 
