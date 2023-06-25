@@ -1,5 +1,6 @@
-<div style="display: flex; align-items: center;">
-  <img title="Animation" src="assets/icons/Eclipse-1s-200px.svg" width="100" height="100" style="margin-right: 10px;">
+<div style="text-align: center;">
+  <img title="Animation" src="assets/icons/Eclipse-1s-200px.svg" width="100" height="100">
+  <br>
   <h1 style="margin: 0;">Welcome to my GitHub Profile</h1>
 </div>
 
