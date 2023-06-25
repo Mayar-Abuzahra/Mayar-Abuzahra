@@ -39,5 +39,5 @@ Hey there! I'm Mayar Abuzahra, a passionate computer engineer and coding enthusi
 See `pinned` below. 
 
 <div style="display: flex; align-items: center; justify-content: center;">
-    <img title="image" src="assets/icons/html-1.1s-200px.svg" width="900" height="200">
+    <img title="image" src="assets/icons/download_50.73832961661364.svg" width="900" height="200">
 </div>
