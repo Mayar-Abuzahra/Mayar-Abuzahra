@@ -1,4 +1,9 @@
-# 👋 Welcome to my GitHub Profile
+<div> 
+  <p>
+    <a href="#"><img title="animation" src="assets/icons/Eclipse-1s-200px.svg"></a>
+  </p>
+</div>
+# Welcome to my GitHub Profile
 
 Hey there! I'm Mayar Abuzahra, a passionate computer engineer and coding enthusiast. 
 
