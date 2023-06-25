@@ -37,7 +37,3 @@ Hey there! I'm Mayar Abuzahra, a passionate computer engineer and coding enthusi
 ### My Personal Projects:
 
 See `pinned` below. 
-
-<div style="display: flex; align-items: center; justify-content: center;">
-    <img title="image" src="assets/icons/animation.svg" width="900" height="200">
-</div>
