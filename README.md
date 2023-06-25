@@ -17,7 +17,7 @@ Hey there! I'm Mayar Abuzahra, a passionate computer engineer and coding enthusi
     alt="Follow me on LinkedIn"
     src="assets/icons/linkedin.svg"
   /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://medium.com/@mayarabuzahra" title="Follow me on Medium">
   <img
     width="24"
