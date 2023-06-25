@@ -1,6 +1,6 @@
 <div style="display: inline-flex; align-items: center;">
   <div>
-    <p align="center">
+    <p>
       <a href="#"><img title="Animation" src="assets/icons/Eclipse-1s-200px.svg" width="200" height="200"></a>
     </p>
   </div>
