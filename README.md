@@ -1,5 +1,5 @@
 <div style="align-items: center; justify-content: center;">
-  <img title="Animation" src="assets/icons/Vanilla-4.2s-280px.svg" width="1000" height="200">
+  <img title="Animation" src="assets/icons/Vanilla-4.2s-280px.svg" width="700" height="200">
 </div>
 
 Hey there! I'm Mayar Abuzahra, a passionate computer engineer and coding enthusiast. 
