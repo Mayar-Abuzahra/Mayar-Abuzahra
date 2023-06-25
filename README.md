@@ -1,7 +1,4 @@
-<div style="display: flex; align-items: center;">
-  <img title="Animation" src="assets/icons/Eclipse-1s-200px.svg" width="100" height="100" style="margin-right: 10px;">
-  <h1 style="display: inline-block; margin: 0;">Welcome to my GitHub Profile</h1>
-</div>
+# Welcome to my GitHub Profile
 
 Hey there! I'm Mayar Abuzahra, a passionate computer engineer and coding enthusiast. 
 
