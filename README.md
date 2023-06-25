@@ -32,7 +32,7 @@ Hey there! I'm Mayar Abuzahra, a passionate computer engineer and coding enthusi
   
 #### My Stats:
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayar-Abuzahra&show_icons=true&theme=Tokyonight)
+[![Your GitHub stats](https://img.shields.io/badge/dynamic/json?label=GitHub%20Stats&query=value&url=https://api.github.com/users/Mayar-Abuzahra)](https://github.com/Mayar-Abuzahra)
 
 ### My Personal Projects:
 
