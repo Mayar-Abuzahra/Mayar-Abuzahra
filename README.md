@@ -1,4 +1,4 @@
-# Welcome to my GitHub Profile
+# Welcome to my GitHub Profile [<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">](https://www.linkedin.com/in/mayar-abuzahra)
 
 Hey there! I'm Mayar Abuzahra, a passionate computer engineer and coding enthusiast. 
 
