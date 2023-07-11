@@ -2,7 +2,7 @@
 
 Hey there! I'm Mayar Abuzahra, a passionate computer engineer and coding enthusiast. 
 
-# Tech Stack <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
+<h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Java | C# | C
 - 🌐 &nbsp; HTML5 | CSS3 | JavaScript | Bootstrap | Media Query | React.js | TypeScript | Android 
