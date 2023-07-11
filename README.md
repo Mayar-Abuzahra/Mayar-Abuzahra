@@ -23,7 +23,7 @@ Hey there! I'm Mayar Abuzahra, a passionate computer engineer and coding enthusi
     width="24"
     alt="Follow me on Kaggle"
     src="assets/icons/kaggle.svg"
-    style="border-radius: 50%;"
+    class="rounded-image"
   /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://medium.com/@mayarabuzahra" title="Follow me on Medium">
