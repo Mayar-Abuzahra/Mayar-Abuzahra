@@ -17,12 +17,14 @@ Hey there! I'm Mayar Abuzahra, a passionate computer engineer and coding enthusi
     alt="Follow me on LinkedIn"
     src="assets/icons/linkedin.svg"
   /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.kaggle.com/mayarabuzahra00" title="Follow me on Kaggle">
   <img
     width="34"
     alt="Follow me on Kaggle"
-    src="assets/icons/kaggle-1.svg"
+    src="assets/icons/kaggle.svg"
   /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://medium.com/@mayarabuzahra" title="Follow me on Medium">
   <img
     width="24"
