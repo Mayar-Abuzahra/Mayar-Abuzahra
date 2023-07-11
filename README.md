@@ -33,7 +33,7 @@ Hey there! I'm Mayar Abuzahra, a passionate computer engineer and coding enthusi
 #### My Stats:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayar-Abuzahra&show_icons=true&theme=tokyonight)
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mayar-Abuzahra&" alt="Mayar-Abuzahra" /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mayar-Abuzahra&" alt="Mayar-Abuzahra" /></p>
 
 ### My Personal Projects:
 
