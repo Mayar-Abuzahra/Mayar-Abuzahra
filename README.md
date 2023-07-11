@@ -20,7 +20,7 @@ Hey there! I'm Mayar Abuzahra, a passionate computer engineer and coding enthusi
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.kaggle.com/mayarabuzahra00" title="Follow me on Kaggle">
   <img
-    width="24"
+    width="34"
     alt="Follow me on Kaggle"
     src="assets/icons/kaggle-1.svg"
   /></a>
