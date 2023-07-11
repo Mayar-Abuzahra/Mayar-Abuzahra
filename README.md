@@ -31,8 +31,6 @@ Hey there! I'm Mayar Abuzahra, a passionate computer engineer and coding enthusi
 - Discord: hellomay#8589
   
 #### My Stats:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayar-Abuzahra&show_icons=true&theme=tokyonight)
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- GitHub Stats ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
