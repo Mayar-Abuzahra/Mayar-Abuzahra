@@ -1,7 +1,6 @@
 # Welcome to my GitHub Profile [<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">](https://www.linkedin.com/in/mayar-abuzahra)
 
 Hey there! I'm Mayar Abuzahra, a passionate computer engineer and coding enthusiast. 
-- 🌱 I am currently working on a research paper.
 
 <h3>🛠 Tech Stack</h3>
 
